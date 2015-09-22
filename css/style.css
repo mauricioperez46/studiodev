@@ -101,6 +101,12 @@ header nav a.active{
 	padding: 30px 0;
 }
 
+#audio {
+	background-color: red;
+	text-align: center;
+	padding: 30px 0;
+}
+
 #portafolio {
 	background-color: whitesmoke;
 }
